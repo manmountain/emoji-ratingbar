@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Emoji RatingBar</string>
+    <string name="title">Are you in pain?</string>
+    <string name="msg000">Very happy, I don\'t hurt at all</string>
+    <string name="msg001">Hurts just a little bit</string>
+    <string name="msg002">Hurts a little more</string>
+    <string name="msg003">Hurts even more</string>
+    <string name="msg004">Hurts a whole lot</string>
+    <string name="msg005">Hurts as much as you can imagine. You dont have to be crying to feel this bad</string>
+    <string name="msg_err">IDK if its hurts, I\'m empty inside</string>
+    <string name="help_msg">Select the emoji that represents what you feel</string>
+</resources>
+
+
+
+
+
+
+
+
